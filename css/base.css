@@ -1,0 +1,10 @@
+* {
+    box-align: border-box;
+}
+
+div, section {
+    outline: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+    
+}
