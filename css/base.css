@@ -2,13 +2,9 @@
     box-align: border-box;
 }
 
-/* p {
-    margin: 0px auto;
-} */
-
-div {
+div, section {
     outline: 1px solid black;
-    align-content: center;
     text-align: center;
+    vertical-align: middle;
     
 }
